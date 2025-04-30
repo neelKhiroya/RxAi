@@ -1,0 +1,3 @@
+raw
+.filtervenv/
+*.egg-info/
